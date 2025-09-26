@@ -43,7 +43,8 @@ botaoMudarCor.addEventListener('click', () => {
     // caixaSemClass.classList.remove('vermelho');
 });
 
-// principais eventListeners: click, mouseover, mouseout, keydown, keyup, change, submit, input 
+
+// principais eventListeners: click, mouseover, mouseout, keydown, keyup, change, submit, input
 
 //preventDefault() - previne o comportamento padrão do elemento
 
